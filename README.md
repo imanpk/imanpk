@@ -21,7 +21,7 @@ I'm Iman
 Student & Developer
 -----------------------------
 
-*   🖥️  See my portfolio at [myownwebsite.com](https://www.linkedin.com/in/iman-pirkakhki/)
+*   🖥️  See my portfolio at [imanpk.site](https://www.imanpk.site/)
 *   🚀  I'm currently working on ....
 *   🤝  I'm open to collaborating on interesting projects as a web and python developer
 
